@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 
-//Вавилов КЭ-214, Вариант 7
 namespace Lab_1
 {
     class Student_grup
